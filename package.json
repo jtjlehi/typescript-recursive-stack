@@ -1,0 +1,16 @@
+{
+  "name": "ts-algebraic-data-types",
+  "version": "0.0.1",
+  "description": "a clean interface for algebraic data types in typescript/javascript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "author": "Jared Jacobson",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
